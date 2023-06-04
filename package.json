@@ -1,0 +1,10 @@
+{
+    "react-native": {
+      "project": {
+        "android": {
+          "sourceDir": "<path_to_android_folder>"
+        }
+      }
+    }
+  }
+  
