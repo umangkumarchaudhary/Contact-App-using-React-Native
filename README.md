@@ -10,7 +10,7 @@ and when we wil click on name it will shows thier details
 
 ![Screenshot (752)](https://github.com/umangkumarchaudhary/Contact-App-using-React-Native/assets/88194464/61eb5ab5-6b28-44ff-9275-221a0a4c6f85)
 
-UNABLE TO GENERATE APK
+UNABLE TO GENERATE APK due to some technical issues
 
 
 
